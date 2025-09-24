@@ -1,4 +1,7 @@
 <?php
+
+include_once ('init.php');
+
 /**
  * Resize an image to fit within specified dimensions while maintaining aspect ratio.
  * The resized image is centered on a white background if it doesn't fill the entire area.
