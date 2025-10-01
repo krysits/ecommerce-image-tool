@@ -18,7 +18,7 @@ Supports JPG, PNG, GIF, WEBP formats.
 Usage:
 1) copy your images to `input` folder
 2) run `php ./jpg.php` command in terminal
-   - for JPG images check `php ./w600.php` for 600px width lanscape images
+   - for JPG images check `php ./h600.php` for 600px heigth lanscape images
    - for PNG images use `php ./png.php`
    - for GIF images use `php ./gif.php`
    - for WEBP images use `php ./webp.php`
