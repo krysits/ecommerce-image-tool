@@ -22,6 +22,7 @@ Usage:
    - for PNG images use `php ./png.php`
    - for GIF images use `php ./gif.php`
    - for WEBP images use `php ./webp.php`
+   - for AVIF images use `php ./avif.php`
 3) wait until script finishes
 5) get your images in `square` or `landscape` folder
 
